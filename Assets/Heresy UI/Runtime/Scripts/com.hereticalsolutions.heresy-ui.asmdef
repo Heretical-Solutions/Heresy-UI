@@ -1,3 +1,16 @@
 {
-	"name": "com.hereticalsolutions.heresy-ui"
+    "name": "com.hereticalsolutions.heresy-ui",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6717287baa31db48bea25c9ed26a665"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
