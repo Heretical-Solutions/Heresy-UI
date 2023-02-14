@@ -1,0 +1,17 @@
+{
+  "name": "com.hereticalsolutions.heresy-ui",
+  "version": "0.1.18",
+  "displayName": "Heresy UI",
+  "description": "",
+  "unity": "2021.3",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "heretical-solutions"
+  ],
+  "author":
+  {
+    "name": "BenevolentDrone",
+    "email": "benevolentdrone@gmail.com"
+  }
+}
